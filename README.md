@@ -19,6 +19,7 @@ In this document, we will specify the topic of ***how to export readme file to p
 
 ### Features
 
+
 * Automatic scroll sync
 * [Import external files](https://shd101wyy.github.io/markdown-preview-enhanced/#/file-imports)
 * [Code Chunk](https://shd101wyy.github.io/markdown-preview-enhanced/#/code-chunk)
@@ -43,7 +44,8 @@ General Usage
 ![Placeholder image](https://user-images.githubusercontent.com/1908863/28199502-b9ba39c6-682b-11e7-8bb9-89661100389e.png "Placeholder image")
     
 
-###Keyboard Shortcuts
+Keyboard Shortcuts
+--------------------
 
 | Shortcuts | Functions |
 |-----------------------|-----------------------|
@@ -83,7 +85,8 @@ Press `cmd-shift-p` and run ***Markdown Preview Enhanced: Customize Css*** comma
 
 ***
 
-###Alternative method to export to PDF
+Alternative method to export to PDF
+---------------------
 
 If you have already installed or currently using chrome browser app, you can export to pdf file by the following way:
 
